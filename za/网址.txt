@@ -1,0 +1,4 @@
+1、数字滤波
+https://blog.csdn.net/zhoufan900428/article/details/8966114
+2、信号与系统——Z变换
+https://blog.csdn.net/Explorer_day/article/details/80270883?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1.control
